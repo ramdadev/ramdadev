@@ -2,7 +2,7 @@
 
 <img src="assets/banner.gif" alt="Banner" width="100%" />
 
-### Hi there 👋, I'm **Ferdy**
+### Hi there 👋, I'm **Ferdy Rahmat Ramdani**
 
 👨‍💻 Full Stack Developer  
 🎨 Tech Enthusiast  
@@ -33,8 +33,8 @@
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 
 ### Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
@@ -44,12 +44,27 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramdadev&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramdadev&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=ramdadev&theme=tokyonight&hide_border=true)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramdadev&theme=tokyonight)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramdadev&theme=tokyonight)
+
+</div>
+
+---
+
+## 🏆 GitHub Badges
+
+<div align="center">
+
+![Followers](https://img.shields.io/github/followers/ramdadev?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/ramdadev?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=ramdadev&style=for-the-badge)
 
 </div>
 
