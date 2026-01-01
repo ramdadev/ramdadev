@@ -48,12 +48,23 @@
 
 <div align="center">
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramdadev&theme=tokyonight)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramdadev&theme=tokyonight)
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramdadev&theme=tokyonight)
-
+  <!-- Profile Details (Full Width) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramdadev&theme=tokyonight" />
+  
+  <br /><br />
+  
+  <!-- Two Column Layout -->
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramdadev&theme=tokyonight" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramdadev&theme=tokyonight" />
+      </td>
+    </tr>
+  </table>
+  
 </div>
 
 ---
