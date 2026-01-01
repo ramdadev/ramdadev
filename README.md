@@ -48,8 +48,8 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramdadev&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramdadev&layout=compact&theme=tokyonight)
 
 </div>
 
@@ -64,9 +64,9 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: `link-kamu`
-- 🌐 Portfolio: `link-kamu`
-- 📧 Email: `email-kamu`
+- 💼 LinkedIn: https://www.linkedin.com/in/ferdyrahmat
+- 🌐 Portfolio: https://ramda.dev
+- 📧 Email: mailto:ramdadev@gmail.com
 
 ---
 
