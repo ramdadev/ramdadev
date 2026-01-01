@@ -48,11 +48,11 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ramdadev&theme=tokyonight&hide_border=true)
-
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramdadev&theme=tokyonight)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramdadev&theme=tokyonight)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramdadev&theme=tokyonight)
 
 </div>
 
