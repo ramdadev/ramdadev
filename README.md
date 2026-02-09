@@ -1,103 +1,124 @@
 <div align="center">
 
-<img src="assets/banner.gif" alt="Banner" width="100%" />
+# Hi there 👋, I'm Ferdy Rahmat Ramdani
 
-### Hi there 👋, I'm **Ferdy Rahmat Ramdani**
+**Full Stack Developer** | **Tech Enthusiast** | **Open Source Contributor**
 
-👨‍💻 Full Stack Developer  
-🎨 Tech Enthusiast  
-🌟 Open Source Contributor  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferdyrahmat)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ramda.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramdadev@gmail.com)
 
-![snake gif](https://github.com/ramdacodes/ramdacodes/blob/output/github-contribution-grid-snake-dark.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=ramdadev&style=flat-square&color=blueviolet)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
+```typescript
+const ferdy = {
+    role: "Full Stack Developer",
+    location: "Indonesia",
+    interests: ["ERP Systems", "Dashboard Analytics", "API Development", "IoT"],
+    currentFocus: "Building scalable systems with clean architecture",
+    motto: "Code, debug, repeat ☕"
+};
+```
 
-- 💻 Full Stack Developer (Backend & Frontend)
-- 🧠 Love building **scalable systems & clean code**
-- ⚡ Interested in **ERP, Dashboard Analytics, API, IoT**
-- 🤝 Open to **collaboration & open-source contributions**
-- ☕ Code, debug, repeat
+- 🔭 Currently working on **scalable web applications**
+- 🌱 Continuously learning **modern development practices**
+- 👯 Open to **collaboration** on interesting projects
+- 💬 Ask me about **Laravel, React, and API design**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend
+### Backend Development
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-EF3B2D?style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+### Frontend Development
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+### Database & DevOps
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Statistics
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramdadev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramdadev&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
-  <!-- Profile Details (Full Width) -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramdadev&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramdadev&theme=tokyonight" />
-  
-  <br /><br />
-  
-  <!-- Two Column Layout -->
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramdadev&theme=tokyonight" />
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramdadev&theme=tokyonight" />
-      </td>
-    </tr>
-  </table>
-  
 </div>
 
 ---
 
-## 🏆 GitHub Badges
+## 🏆 GitHub Trophies
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ramdadev&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+</div>
 
-![Followers](https://img.shields.io/github/followers/ramdadev?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/ramdadev?style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=ramdadev&style=for-the-badge)
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://github.com/ramdacodes/ramdacodes/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 💭 Dev Quote
+
+<div align="center">
+  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
 ---
 
-## 💡 Quotes to Live By
+## 📫 Let's Connect
 
-> *"Code is like humor. When you have to explain it, it’s bad."*  
-> — **Cory House**
+<div align="center">
 
----
+I'm always interested in hearing about new projects and opportunities.
 
-## 📫 Connect With Me
+**Feel free to reach out!**
 
-- 💼 LinkedIn: https://www.linkedin.com/in/ferdyrahmat
-- 🌐 Portfolio: https://ramda.dev
-- 📧 Email: mailto:ramdadev@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferdyrahmat)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://ramda.dev)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramdadev@gmail.com)
+
+</div>
 
 ---
 
 <div align="center">
+  
+**✨ Thanks for visiting! ✨**
 
-✨ *Keep learning, keep shipping.* ✨
+*"First, solve the problem. Then, write the code."* — John Johnson
+
+⭐️ From [ramdadev](https://github.com/ramdadev)
 
 </div>
