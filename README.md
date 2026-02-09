@@ -4,10 +4,6 @@
 
 **Full Stack Developer** | **Tech Enthusiast** | **Open Source Contributor**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferdyrahmat)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ramda.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramdadev@gmail.com)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=ramdadev&style=flat-square&color=blueviolet)
 
 </div>
