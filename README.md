@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ferdy%20Rahmat%20Ramdani&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Indonesia%20🇮🇩&descAlignY=55&descSize=16" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A371F7&center=true&vCenter=true&width=560&lines=Full+Stack+Developer+%F0%9F%9A%80;Laravel+%2B+React+Enthusiast+%E2%9A%9B%EF%B8%8F;ERP+%26+Dashboard+Builder+%F0%9F%93%8A;API+Design+%26+Clean+Architecture+%E2%9C%A8;Open+Source+Contributor+%F0%9F%A4%9D)](https://git.io/typing-svg)
-
 <br>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ramdadev&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/ramdadev)
