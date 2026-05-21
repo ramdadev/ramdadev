@@ -68,8 +68,8 @@ const ferdy: Developer = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ramdadev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a371f7&icon_color=56d364&text_color=e6edf3&rank_icon=github" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramdadev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a371f7&text_color=e6edf3&langs_count=8" />
+<img width="49%" src="https://github-stats-alpha.vercel.app/api?username=ramdadev&cc=0d1117&tc=a371f7&ic=56d364&bc=0d1117" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramdadev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a371f7&text_color=e6edf3&langs_count=8&cache_seconds=1800" />
 
 <br><br>
 
