@@ -104,16 +104,6 @@ const ferdy: Developer = {
 
 <br>
 
-## GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ramdadev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br>
-
 ## Contribution Snake
 
 <div align="center">
